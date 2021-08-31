@@ -1,0 +1,16 @@
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\bin\Debug\net5.0\Lesson1.exe
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\bin\Debug\net5.0\Lesson1.deps.json
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\bin\Debug\net5.0\Lesson1.runtimeconfig.json
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\bin\Debug\net5.0\Lesson1.runtimeconfig.dev.json
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\bin\Debug\net5.0\Lesson1.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\bin\Debug\net5.0\ref\Lesson1.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\bin\Debug\net5.0\Lesson1.pdb
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.csproj.AssemblyReference.cache
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.AssemblyInfoInputs.cache
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.AssemblyInfo.cs
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.csproj.CoreCompileInputs.cache
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\ref\Lesson1.dll
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.pdb
+E:\Users\Janis\Desktop\C#PROGAM\lesson1\Lesson1\Lesson1\obj\Debug\net5.0\Lesson1.genruntimeconfig.cache
